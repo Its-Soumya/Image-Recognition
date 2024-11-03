@@ -17,9 +17,10 @@ Image Recognition using ResNet50  |  Upload the image and get output of the imag
 
 # Screenshot of the Outputs
 
-![Screenshot (363)](https://github.com/user-attachments/assets/16bc9bf7-cdaa-4661-ab4c-b0f596b67566)
-![Screenshot (360)](https://github.com/user-attachments/assets/75f0a322-dea6-48c4-b59f-46f8e1246ffb)
-![Screenshot (361)](https://github.com/user-attachments/assets/2eec7fdc-c9e1-4337-85e5-0af2e46ef1cc)
-![Screenshot (362)](https://github.com/user-attachments/assets/5798aca7-16a0-4d50-a597-35dd40e2634f)
+![Screenshot (363)](https://github.com/user-attachments/assets/ef0d93ff-0a93-443f-b36c-a6812f1ca2b2)
+![Screenshot (360)](https://github.com/user-attachments/assets/1a32a6cb-5579-42cb-826d-108186053bbd)
+![Screenshot (361)](https://github.com/user-attachments/assets/6c0fc02e-5fb0-4a57-a5bb-4b9bbd3a0b8a)
+![Screenshot (362)](https://github.com/user-attachments/assets/bbb309af-d8bb-43f9-a888-64a57c98b2a2)
+
 
 
